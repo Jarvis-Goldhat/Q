@@ -1,0 +1,5 @@
+# Create sensor based security and measurement system
+Cameras, (motion, face, etc)
+Ultrasonic sensor 
+PIR,
+alarm - voice then siren
